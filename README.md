@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About me
-- Computer Engineer focused on **Machine Learning**, **Full-Stack JS**, and **IoT/Embedded**.
+- Computer Engineer focused on **Machine Learning**, **Full-Stack JS** .
 - I like building things end-to-end: data → models → APIs → clean UIs.
 - Currently: launching products and refining my ML portfolio.
 
