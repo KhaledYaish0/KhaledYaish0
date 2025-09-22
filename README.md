@@ -65,10 +65,6 @@
 - Email: _(khaledyaishkhy@gmail.com)_
 
 ---
-### ✅ How I work
-- Clean README + clear folder structure + small, composable functions.
-- Reproducible notebooks and scripts with comments.
-- Issues/PRs welcome on public repos.
 
 <!-- Badges -->
 <p align="center">
