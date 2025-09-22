@@ -38,7 +38,6 @@
 - **[gym_center](https://github.com/KhaledYaish0/gym_center)** – Gym & Fitness website (full stack basics).  
   _HTML · CSS · JS · PHP · MySQL_
 
-> Want me to add more highlights (e.g., Memzy/BearBulk/IoT work)? Open an issue on this repo and I’ll update.
 
 ---
 
@@ -63,7 +62,7 @@
 
 ## 📫 Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/khaledyaish">khaledyaish</a>
-- Email: _(add your best contact email here)_
+- Email: _(khaledyaishkhy@gmail.com)_
 
 ---
 ### ✅ How I work
