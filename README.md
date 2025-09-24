@@ -66,18 +66,6 @@
 
 ---
 
-## 📌 Featured Repos
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Aqari-Al-Dhaki&theme=tokyonight&hide_border=true&border_radius=12" alt="Aqari-Al-Dhaki" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Customer-segmentation-with-unsupervised-learning&theme=tokyonight&hide_border=true&border_radius=12" alt="Customer Segmentation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Image_Classifier&theme=tokyonight&hide_border=true&border_radius=12" alt="Image_Classifier" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=gym_center&theme=tokyonight&hide_border=true&border_radius=12" alt="gym_center" />
-</p>
-
 
 ---
 
