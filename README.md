@@ -52,12 +52,14 @@
 ## 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledYaish0&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledYaish0&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledYaish0&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledYaish0&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledYaish0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
 </p>
+
 
 ---
 
