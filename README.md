@@ -51,13 +51,33 @@
 
 ## 📊 Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaledYaish0&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledYaish0&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" height="165" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KhaledYaish0&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"
+    height="165" alt="Khaled's GitHub Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=KhaledYaish0&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly"
+    height="165" alt="Khaled's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledYaish0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledYaish0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    height="165" alt="Top Languages" />
+</p>
+
+---
+
+## 📌 Featured Repos
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Aqari-Al-Dhaki&theme=tokyonight&hide_border=true&border_radius=12" alt="Aqari-Al-Dhaki" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Customer-segmentation-with-unsupervised-learning&theme=tokyonight&hide_border=true&border_radius=12" alt="Customer Segmentation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=Image_Classifier&theme=tokyonight&hide_border=true&border_radius=12" alt="Image_Classifier" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledYaish0&repo=gym_center&theme=tokyonight&hide_border=true&border_radius=12" alt="gym_center" />
 </p>
 
 
