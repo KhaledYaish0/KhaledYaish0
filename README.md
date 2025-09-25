@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&center=true&vCenter=true&lines=Khaled+Yaish;Computer+Engineer+%7C+ML+%26+Web;Builder+of+useful+things" alt="Typing SVG">
 </p>
 
-<h1 align="center">Hi, I'm Khaled 👋</h1>
+<h1 align="center">Hi, I'm Khaled </h1>
 
 <p align="center">
   Nablus, Palestine • <a href="https://www.linkedin.com/in/khaledyaish">LinkedIn</a>
@@ -12,19 +12,19 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 - Computer Engineer focused on **Machine Learning**, **Full-Stack JS** .
 - I like building things end-to-end: data → models → APIs → clean UIs.
 - Currently: launching products and refining my ML portfolio.
 
-### 🧠 Current focus
+### Current focus
 - ML projects (classification, clustering, model serving)
 - Clean, documented APIs with **Node.js / Express / PostgreSQL**
 - Frontend with **React / TypeScript / Tailwind**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 > Quick tour of my pinned repos (tap to view):
 
 - **[Aqari-Al-Dhaki](https://github.com/KhaledYaish0/Aqari-Al-Dhaki)** – ML app to predict apartment prices & assess market fairness in Palestine.  
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <!-- icons: https://skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,git,github,py,tensorflow,sklearn,html,css,tailwind,bootstrap,linux,vscode" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 Stats & Activity
+## Stats & Activity
 
 <p align="center">
   <img
@@ -69,7 +69,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/khaledyaish">khaledyaish</a>
 - Email: _(khaledyaishkhy@gmail.com)_
 
