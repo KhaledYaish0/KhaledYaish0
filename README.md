@@ -46,10 +46,31 @@
 ---
 
 ## Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,git,github,py,tensorflow,sklearn,html,css,tailwind,bootstrap,linux,vscode" />
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,ts,react,nodejs,express,postgres,tailwind,html,css,git,github,linux,vscode" />
 </p>
 
+### AI & Machine Learning
+- RAG Pipelines (FAISS, SentenceTransformers, BART)  
+- Cross-Encoders, Summarization models  
+- TensorFlow, scikit-learn  
+
+### Agentic AI Frameworks
+- CrewAI, LangGraph, AutoGen, n8n  
+
+### Backend
+- Node.js, Express.js, PostgreSQL  
+- REST APIs, Authentication, Deployment  
+
+### Frontend
+- React, TypeScript, Tailwind CSS  
+- Clean UIs, Component-driven design  
+
+### Tools
+- Git, GitHub, Linux, VS Code  
+- Docker (basics), API Integrations  
 ---
 
 ## Stats & Activity
