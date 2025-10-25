@@ -1,7 +1,7 @@
 <!-- Profile README for Khaled Yaish | Last update: 2025-09-28 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&center=true&vCenter=true&lines=Khaled+Yaish;Agentic+AI+Engineer+%7C+ML+%26+Web;Builder+of+useful+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&center=true&vCenter=true&lines=Khaled+Yaish;Agentic+AI+Engineer+%7C+ML+%26+Web;" alt="Typing SVG">
 </p>
 
 <h1 align="center">Hi, I'm Khaled</h1>
